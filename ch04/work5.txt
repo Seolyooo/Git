@@ -1,3 +1,5 @@
 #section1
 
 #section2
+sintent2 by feature
+content2 by feature/terms 
